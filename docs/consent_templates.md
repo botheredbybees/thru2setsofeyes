@@ -1,0 +1,100 @@
+### 2.3 Consent Template Pack
+
+---
+
+#### Purpose
+
+The consent templates provide facilitators with legally grounded, plain-language consent documents that can be adapted for any Australian community context. They are not legal advice. Facilitators operating outside Australia, or in contexts involving unusual risk factors, should have their templates reviewed by a local person with relevant expertise before use.
+
+---
+
+#### Format notes
+
+- Each template is a separate document, available as both PDF and editable Word file
+- Plain language throughout - aim for Year 8 reading level
+- All templates include a version number and date so facilitators know which release they are using
+- Facilitators must add their own contact details, organisation name (if any), and local safeguarding contact before distributing
+
+---
+
+#### The three templates
+
+---
+
+**Template 1: Adult Participant Consent Form**
+
+For participants aged 18 and over in either cohort.
+
+*Covers:*
+
+- What the project is and who is running it
+- What participation involves - weekly sessions, photography, potential exhibition of images
+- That one image per week may be displayed publicly in the community exhibition space, without the participant's name attached until Week 8
+- That the participant chooses which images go public - no image will be exhibited without their explicit selection
+- That participation in SWEMWBS data collection is voluntary and separate from participation in the project itself
+- That anonymised, aggregated data may be submitted to the *Through Two Sets of Eyes* central data portal and may be used in future research publications
+- That the participant may withdraw from the project at any time, and may request removal of their images from the exhibition at any time up to and including Week 8
+- That images displayed in the public exhibition may be photographed by members of the community and shared on social media - this cannot be controlled once images are publicly displayed, and participants should be aware of this before selecting images for exhibition
+- Contact details for the facilitator and for the project GitHub Issues page
+- Signature block with date
+
+*Design note:* The social media clause is the most important thing an adult participant needs to understand before selecting images for public display. It should be the most prominent clause in the form, not buried in the middle. Facilitators should read it aloud during the Phase 0 orientation and invite questions before anyone signs.
+
+---
+
+**Template 2: Under-18 Participant Consent Form**
+
+A two-part document: a guardian consent form and a separate participant assent form.
+
+*Guardian consent form covers:*
+
+- Everything in Template 1, written for a parent or guardian rather than the participant
+- An explicit statement that the youth co-facilitator holds a current Working With Children Check or equivalent, and that no project lead or facilitator will have sole unsupervised contact with a participant under 18
+- That the guardian may withdraw consent at any time, and that withdrawal of guardian consent supersedes the participant's own assent
+- Contact details for the facilitator, the youth co-facilitator, and the local safeguarding contact
+- Signature block with date and relationship to participant
+
+*Participant assent form covers:*
+
+- A shorter, simpler version of the consent information written directly for the young person
+- An explicit statement that they can say no to having any image displayed, at any time, for any reason, without having to explain themselves
+- An explicit statement that saying no to the exhibition does not affect their place in the group
+- Signature block with date - or, for participants who prefer not to sign, a checkbox indicating verbal assent witnessed by the co-facilitator
+
+*Design note:* The assent form should feel meaningfully different from the guardian consent form - not just a simplified copy. It is the young person's document, not the guardian's. Consider a different visual design, slightly larger text, and a tone that speaks directly to the participant rather than about them.
+
+---
+
+**Template 3: Public Photography Ethics Agreement**
+
+A one-page document signed by all participants at the Phase 0 orientation, before any photography begins.
+
+*Covers:*
+
+- That participants are photographing in public spaces where other people may be present
+- That the project's no-people orientation means participants should avoid making other individuals the primary subject of any photograph intended for exhibition
+- That if a person appears incidentally in a photograph selected for exhibition, the facilitator should make reasonable efforts to ensure the person is not identifiable - cropping or angle adjustment preferred over excluding the image
+- That participants must not photograph on private property without permission from the property owner
+- That participants must not photograph in spaces where photography is prohibited - shopping centre interiors, some government buildings, schools
+- That if a participant is approached or challenged while photographing, they should not argue - they should note the location and discuss it with the facilitator at the next session
+- A brief plain-language statement of street photography rights in Australia - specifically that photography of people and places visible from a public space is generally legal, but that this guide cannot cover every situation and participants should use their judgement
+
+*Design note:* This document is not primarily about legal liability - it's about giving participants enough confidence to go out and photograph without anxiety, and enough guidance to avoid situations that could embarrass themselves or the project. The tone should be enabling, not cautionary.
+
+---
+
+#### A note on jurisdiction
+
+These templates are written for Australian community contexts and reflect Australian privacy law, child protection frameworks, and street photography conventions. Facilitators outside Australia must review and adapt all three templates before use. The GitHub Wiki will maintain a page of known jurisdiction-specific adaptations contributed by facilitators in other countries.
+
+The templates do not constitute ethics approval for formal research. Sites intending to publish findings in peer-reviewed literature must obtain independent ethics approval. The templates are designed to be consistent with standard community arts ethics practice, not research ethics requirements.
+
+---
+
+#### What the templates do not cover
+
+- Employment or volunteer agreements for co-facilitators - these are the responsibility of the facilitating organisation or individual
+- Insurance - facilitators should confirm their personal or organisational insurance covers community arts facilitation before Week 1
+- Venue hire agreements - covered separately in the Exhibition Guide
+- Data storage and privacy obligations under the Australian Privacy Act - facilitators who collect and store participant data electronically should satisfy themselves that their storage arrangements are consistent with local privacy law. For most volunteer facilitators, this means: keep paper forms locked up, keep digital files password protected, and do not share identifiable participant data with anyone outside the facilitation team
+

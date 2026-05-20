@@ -1,0 +1,165 @@
+Good. Here are the eight prompt cards - front and reverse for each.
+### 2.2 Prompt Card Set
+
+---
+
+**Format notes**
+- A5, printed double-sided, laminated if possible for reuse
+- Front: prompt text large enough to read at arm's length, brief framing note in smaller text below
+- Reverse: three SHOWED-derived discussion questions tailored to the prompt, plus a caption space
+- Colour-coded by week number for easy sorting - suggested palette in the print guide
+- The project name and week number appear on both sides
+
+---
+
+**WEEK 1**
+
+*Front*
+
+> **What does [place name] look like to you today?**
+>
+> *Take one or more photographs that answer this question. There are no right or wrong answers. You might photograph something beautiful, something ordinary, something that catches your eye for a reason you can't quite explain yet.*
+
+*Reverse*
+
+- What drew you to this particular image?
+- What would someone from somewhere else notice about this photograph?
+- What does this image say about where you are right now - in this place, at this point in your life?
+
+*Caption space:* "This image is called \_\_\_\_\_\_\_\_\_\_"
+
+---
+
+**WEEK 2**
+
+*Front*
+
+> **Photograph somewhere you like to spend time.**
+>
+> *It might be somewhere you go often, or somewhere you go when you need to. It might be a private place or a public one. It doesn't need to be beautiful - just somewhere that means something to you.*
+
+*Reverse*
+
+- What is it about this place that draws you back?
+- Would other people in your community recognise what you value about it?
+- Do you think this place will still be here in ten years?
+
+*Caption space:* "This place is \_\_\_\_\_\_\_\_\_\_"
+
+---
+
+**WEEK 3**
+
+*Front*
+
+> **Photograph what's disappearing.**
+>
+> *Something that used to be here and isn't any more, or something that's still here but fading. It might be a building, a business, a sound, a habit, a kind of person. You don't need to explain it - the photograph will.*
+
+*Reverse*
+
+- What will be lost when this is gone?
+- Who else notices this disappearing, and who doesn't?
+- Is anything taking its place?
+
+*Caption space:* "What's disappearing is \_\_\_\_\_\_\_\_\_\_"
+
+---
+
+**WEEK 4**
+
+*Front*
+
+> **Photograph what's growing or being built.**
+>
+> *Something new arriving in your community - a building, a business, a garden, an idea, a group of people. It might excite you or worry you or both.*
+
+*Reverse*
+
+- Who is this change for?
+- What did this replace, or what space did it fill?
+- How do you feel about it being here?
+
+*Caption space:* "What's growing is \_\_\_\_\_\_\_\_\_\_"
+
+---
+
+**WEEK 5**
+
+*Front*
+
+> **Photograph something that matters to you.**
+>
+> *This week the prompt is deliberately open. It might be connected to previous weeks, or somewhere completely different. Trust your instinct.*
+
+*Reverse*
+
+- Why this, and why now?
+- Would you have photographed this in Week 1?
+- What would you want the person who sees this image to understand?
+
+*Caption space:* "This matters because \_\_\_\_\_\_\_\_\_\_"
+
+---
+
+**WEEK 6**
+
+*Front*
+
+> **Photograph what you love about this place.**
+>
+> *Not what you think you should love - what you actually love. It might surprise you.*
+
+*Reverse*
+
+- What would you miss most if you had to leave?
+- Does everyone in your community have access to this?
+- Has your feeling about this place changed since Week 1?
+
+*Caption space:* "I love \_\_\_\_\_\_\_\_\_\_"
+
+---
+
+**WEEK 7**
+
+*Front*
+
+> **Photograph what you want to change.**
+>
+> *Something that could be different, that should be different, that you'd like the people who make decisions to see. You don't need a solution - just show them what you see.*
+
+*Reverse*
+
+- Who has the power to change this?
+- Who is most affected by this, and whose voice is least heard about it?
+- If this image were seen by the right person, what would you want them to do?
+
+*Caption space:* "I want to change \_\_\_\_\_\_\_\_\_\_"
+
+---
+
+**WEEK 8**
+
+*Front*
+
+> **Choose your strongest image from the whole project.**
+>
+> *Look back through everything you've photographed over the past seven weeks. Choose the one image that feels most true, most complete, or most important to you. It will be the image that represents you at the Week 8 exhibition, when your name goes up beside it for the first time.*
+
+*Reverse*
+
+- Why this one?
+- How do you feel about your name going up beside it in public?
+- What do you hope the other cohort thinks when they see it?
+
+*Caption space:* "I chose this because \_\_\_\_\_\_\_\_\_\_"
+
+---
+
+**Design notes for the print guide**
+
+- The place name on Week 1 is the only site-specific text in the entire prompt set - all other prompts travel unchanged to any location. Facilitators should substitute their own place name before printing.
+- Week 5 is intentionally the least structured prompt. The framing note should not be elaborated in facilitation - resist the urge to explain it further if participants ask what it means. "Trust your instinct" is the complete instruction.
+- The caption space is deliberately incomplete - a sentence stem rather than a blank line. This lowers the barrier to writing for participants who freeze at an empty page.
+- Week 8 cards should be distributed at the start of the final session, not in advance. Participants should make their selection in the group, with their full set of images in front of them.
+
