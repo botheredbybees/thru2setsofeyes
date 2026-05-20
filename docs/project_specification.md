@@ -1,0 +1,100 @@
+# Through Two Sets of Eyes - Project Specification
+
+## Part 1: Project Overview
+
+### Version
+v0.1 draft - May 2026
+
+---
+
+### 1.1 What This Document Is
+
+This specification describes the *Through Two Sets of Eyes* community photography kit - a reusable, open-source framework for running intergenerational Photovoice projects in any community. It is intended for people building out or adapting the kit, not for facilitators running a project. Facilitators should start with the Facilitator Guide (see Part 2).
+
+---
+
+### 1.2 What the Project Is
+
+*Through Two Sets of Eyes* is an eight-week participatory community arts project using photography as its medium. Two independent cohorts - one of younger people, one of older adults - respond to identical weekly photographic prompts, documenting their experience of the same place from their respective vantage points. Their images are paired and displayed publicly each week in a community exhibition space, without attribution. In Week 8, authorship is revealed and the two cohorts meet for the first time.
+
+The project addresses wellbeing risks common to both cohorts - social isolation in older adults, and disconnection and diminished self-efficacy in younger people - through a methodology that requires no arts experience, no specialist equipment, and no institutional infrastructure.
+
+The methodology is Photovoice, a participatory action research approach developed by Wang and Burris (1997) in which community members use photography to document their world, share stories, and generate dialogue about the issues that matter to them.
+
+---
+
+### 1.3 Core Design Principles
+
+These are the elements that define the project. A site that changes any of these is running a different project, and should say so when submitting data.
+
+**Two independent cohorts responding to identical prompts.** The parallel structure is the engine of the project. The cohorts do not collaborate, compare notes, or meet during the project. The community sees the dialogue forming; the participants do not.
+
+**Public exhibition from Week 1, without attribution.** Images are displayed in a publicly accessible community space each week. Neither cohort knows whose images sit beside their own until Week 8. The exhibition accumulates rather than rotates.
+
+**Week 8 reveal.** Authorship is disclosed and both cohorts meet in person at the exhibition. No structured facilitation is required at this event - the images do the work.
+
+**No wrong answers.** Every contribution - whether photograph, word, gesture, or silence - is accepted and extended. No image is corrected, redirected, or ranked by the facilitator. Participant editorial control over which images go public is built into every session.
+
+**Smartphones only.** Participation requires only a device with a camera. One loan device should be available at each site for any participant without their own. No specialist photographic skill or equipment is required or expected.
+
+**Each session is complete in itself.** Sessions do not build on prior skill or require memory of previous weeks. A participant who misses a session can return without having fallen behind.
+
+---
+
+### 1.4 What a Completed Site Looks Like
+
+From a facilitator's perspective, the project runs as follows:
+
+**Before Week 1 - Phase 0 (approximately two weeks).** The facilitator confirms the exhibition venue, recruits both cohorts, distributes baseline SWEMWBS surveys, and delivers a brief orientation covering Photovoice methodology, consent, and public photography ethics. Phase 0 is complete only when both cohorts have a minimum of four confirmed participants and written confirmation of the exhibition venue is in hand.
+
+**Weeks 1-8.** Each cohort meets separately once per week for approximately 90 minutes. Participants receive the week's prompt, shoot on their own devices across the week, and return to share and discuss their images in the group session. One image per participant is selected for that week's exhibition - participant-led. Selected images are printed and installed within 48 hours. At Week 4, mid-point SWEMWBS surveys are distributed.
+
+**Week 8 closing event.** Attribution labels are added to all exhibition images. Both cohorts are invited to attend a closing gathering at the exhibition space. Post-project SWEMWBS surveys are distributed. Participants complete a brief written reflection card.
+
+**After Week 8.** The facilitator submits anonymised SWEMWBS data, basic site demographics, and facilitator session notes to the central data portal. The exhibition images are photographed and uploaded to the project gallery. The local exhibition may remain in place at the venue's discretion.
+
+---
+
+### 1.5 What the Kit Contains
+
+The kit consists of the following components, each described in detail in Part 2:
+
+- Facilitator Guide
+- Prompt Card Set (eight weekly prompts, print-ready)
+- Consent Template Pack (adult participants, under-18 participants, public photography)
+- SWEMWBS Pack (instrument, administration guide, scoring spreadsheet)
+- Exhibition Guide (printing, installation, and venue guidance)
+- Data Submission Guide (how to submit data to the central portal)
+- Site Registration Form
+
+All components are available for download from the project GitHub repository at `github.com/thru2setsofeyes`. Components are versioned; facilitators should always download the current release.
+
+---
+
+### 1.6 Scope and Versioning
+
+**Version 1.0** covers English-language delivery in Australian community contexts. The target first-adopter network is U3A (University of the Third Age) and equivalent community learning organisations, which provide an existing older adult cohort and volunteer facilitator base.
+
+**Planned for Version 2.0:** multilingual prompt and consent packs; cultural adaptation guidance for non-Western contexts; optional third cohort (families with young children); remote and postal delivery variant for very isolated communities.
+
+**Explicitly deferred:** Indigenous Australian community engagement. This requires a co-design process and separate ethics pathway and will be developed as a standalone strand in consultation with relevant communities.
+
+---
+
+### 1.7 Governance and Licensing
+
+*Through Two Sets of Eyes* is an independent open-source project, not affiliated with any single institution. All kit components are released under a Creative Commons Attribution 4.0 licence (CC BY 4.0) - free to use, adapt, and translate, with attribution.
+
+The project is not a research organisation. Sites that wish to use project data for formal publication will need to obtain their own ethics approval, or negotiate coverage under a future umbrella ethics approval held by a partner institution. The data portal collects anonymised aggregate data only; no individual participant data leaves the site.
+
+The project infrastructure is designed for longevity without depending on any individual maintainer - hosted on platforms (GitHub, WordPress) that can be transferred, forked, or continued by others if the founding maintainer is unavailable.
+
+Governance questions, proposed changes to core design principles, and requests for new language packs are managed through the GitHub repository. See the Contributing guide for how to raise issues and propose changes.
+
+---
+
+### 1.8 A Note on Evidence
+
+This project is grounded in the Photovoice methodology (Wang & Burris, 1997; Catalani & Minkler, 2010) and the broader evidence base for participatory arts as a health intervention (Fancourt & Finn, 2019). The specific combination of intergenerational Photovoice with a parallel-cohort design and public exhibition has not been formally evaluated at the time of writing. The data collection built into the kit is intended to generate that evidence over time, across multiple sites.
+
+Facilitators are not required to engage with the research literature to run the project. The evidence section of the Facilitator Guide provides a plain-language summary for facilitators who want to understand why the project is designed the way it is, or who need to explain it to a venue partner or funding body.
