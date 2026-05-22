@@ -82,3 +82,55 @@ Before HANDOVER.md, it might be worth drafting this as a standalone checklist in
 23. Recruit a second org owner
 24. V1.0 release
 
+Good - this is Phase C2 in SETUP.md. Before opening Google Forms, let's make sure the master Sheet is ready to receive registrations, then build the form against it.
+
+---
+
+## Pre-check
+
+A few quick questions before we start:
+
+**1. Sheet status**
+Have you completed C1 - is the master Google Sheet created with the six tabs? The Registration form needs to link to the `Registrations` tab, so we need the Sheet to exist first.
+
+**2. Google account**
+Are you signed into Google with the project account (`thru2setsofeyes@gmail.com` or whatever you settled on), not your personal account? Everything we create now needs to be owned by the project account.
+
+**3. Column headers for the Registrations tab**
+We didn't specify these in the same detail as the SWEMWBS tab in SETUP.md. Before building the form we should agree on the columns so the Sheet is set up correctly first - form fields map to Sheet columns automatically when linked, but the column order should be deliberate.
+
+Here's a proposed column set for the Registrations tab based on the field specification in 2.8:
+
+| Column | Header |
+|---|---|
+| A | Timestamp |
+| B | FacilitatorName |
+| C | FacilitatorEmail |
+| D | Location |
+| E | Country |
+| F | StateTerritory |
+| G | Organisation |
+| H | HowHeard |
+| I | ProposedStartDate |
+| J | SessionDay |
+| K | VenueType |
+| L | VenueName |
+| M | YouthRecruitmentPathway |
+| N | OlderAdultRecruitmentPathway |
+| O | CoFacilitatorName |
+| P | CoFacilitatorRole |
+| Q | CoFacilitatorOrganisation |
+| R | WWCCHeld |
+| S | ConfirmedVenue |
+| T | ConfirmedCoFacilitator |
+| U | ReadFacilitatorGuide |
+| V | DataSubmissionAgreed |
+| W | DataHandlingAgreed |
+| X | SiteCode |
+| Y | FacilitatorCode |
+| Z | Status |
+| AA | CoordinatorNotes |
+
+Columns A-W are populated by the form. Columns X-Z and AA are filled in manually by the coordinator after reviewing the registration.
+
+Does that look right, or are there fields you want to add, remove, or rename before we set up the Sheet and build the form?
