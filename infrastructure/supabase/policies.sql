@@ -36,10 +36,3 @@ CREATE POLICY "Authenticated can delete from submissions"
     ON storage.objects FOR DELETE
     TO authenticated
     USING (bucket_id = 'submissions');
-
--- Restrict moderation_queue to authenticated users only
-ALTER VIEW moderation_queue OWNER TO authenticated;
-
-CREATE POLICY "Authenticated users can read moderation queue"
-    ON image_submissions FOR SELECT
-    USING (auth.role() = 'authenticated');

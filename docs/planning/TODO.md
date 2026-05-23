@@ -10,11 +10,6 @@ Given you already have Palimpsest Path running and are planning more projects, M
 
 The conversion process is well documented in the WordPress codex and is reversible if it causes problems. Your existing Palimpsest Path site becomes the primary subsite; Through Two Sets of Eyes becomes a second subsite reachable at `thru2setsofeyes.org`.
 
----
-
-## Google Account
-
-Set up a dedicated Google account - something like `thru2setsofeyes@gmail.com` - before doing anything else with the data collection infrastructure. Using your personal account creates the same single-point-of-failure problem we've been designing against everywhere else. The project account credentials go into a password manager that a future co-owner can access.
 
 ---
 
