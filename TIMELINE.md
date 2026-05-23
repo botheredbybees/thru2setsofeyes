@@ -106,6 +106,23 @@ Initial architecture proposed GitHub + WordPress + Google Workspace. Google Work
 - Storage buckets created: `submissions` (private), `gallery` (public)
 - Storage policies applied - five policies covering anon and authenticated access
 
+### Completed (continued)
+
+**WordPress architecture decision:**
+- WordPress Multisite confirmed as the deployment model for the sidewalkcircus.org server
+- Through Two Sets of Eyes will be a subsite on the existing Multisite installation
+- Domain mapping via Domain Mapping System plugin (free tier)
+- Multisite install pending - `github.com/thru2setsofeyes/kit` repository to be created once Multisite is operational
+
+**Planning review (May 2026):**
+External review of the repository identified and actioned the following:
+- `infrastructure/supabase/policies.sql` — misleading policy name corrected: "Anon cannot read submissions" renamed to "Anon can read gallery" to accurately reflect that the policy grants anon SELECT on the gallery bucket
+- `infrastructure/supabase/schema.sql` — SWEMWBS auto-scoring trigger added: `calculate_swemwbs_scores()` now calculates `raw_total` and looks up `metric_score` from `swemwbs_conversion` on insert/update; leaves both NULL if any item is missing
+- `docs/planning/2.1` — Week 8 reveal scenario added to Section 8 (If something goes wrong), including specific guidance on holding difficult closing moments
+- `docs/planning/2.3` — Post-project online gallery removal clause added to Template 1; consent now distinguishes between physical exhibition withdrawal (up to Week 8) and online gallery removal (possible after, with caveats on third-party copies)
+- `HANDOVER.md` — Coordinator absence protocol added for active project weeks
+- Review also confirmed that the eight weekly prompts (2.2), the `updated_at` trigger for `sites`, and the safeguarding disclosure sections in 2.1 were already complete — these were incorrectly flagged as missing
+
 ### Remaining - Phase B (WordPress)
 
 - [ ] WordPress architecture decision - Multisite vs subdirectory

@@ -254,6 +254,35 @@ CREATE TABLE site_completions (
     submitted_at                TIMESTAMPTZ NOT NULL DEFAULT NOW()
 );
 
+-- ── SWEMWBS auto-score trigger ────────────────────────────────────
+-- Calculates raw_total and looks up metric_score on insert or update.
+-- Leaves both NULL if any of the seven items are missing.
+CREATE OR REPLACE FUNCTION calculate_swemwbs_scores()
+RETURNS TRIGGER AS $$
+BEGIN
+    IF NEW.q1_optimistic IS NOT NULL
+    AND NEW.q2_useful IS NOT NULL
+    AND NEW.q3_relaxed IS NOT NULL
+    AND NEW.q4_problems_well IS NOT NULL
+    AND NEW.q5_thinking_clearly IS NOT NULL
+    AND NEW.q6_close_to_people IS NOT NULL
+    AND NEW.q7_own_mind IS NOT NULL THEN
+        NEW.raw_total := NEW.q1_optimistic + NEW.q2_useful + NEW.q3_relaxed
+                        + NEW.q4_problems_well + NEW.q5_thinking_clearly
+                        + NEW.q6_close_to_people + NEW.q7_own_mind;
+        SELECT metric_score INTO NEW.metric_score
+        FROM swemwbs_conversion
+        WHERE raw_score = NEW.raw_total;
+    END IF;
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER swemwbs_auto_score
+    BEFORE INSERT OR UPDATE ON swemwbs_surveys
+    FOR EACH ROW
+    EXECUTE FUNCTION calculate_swemwbs_scores();
+
 -- ── Updated_at trigger ─────────────────────────────────────────────
 -- Keeps sites.updated_at current automatically
 CREATE OR REPLACE FUNCTION update_updated_at()

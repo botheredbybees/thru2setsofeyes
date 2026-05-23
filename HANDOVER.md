@@ -209,6 +209,18 @@ When one or more sites are active the following applies. The session day varies 
 **End of each week:**
 - Update project map status pins for any status change submissions received
 
+### Coordinator absence during an active project week
+
+If the coordinator is unavailable (illness, leave, emergency) when one or more sites are in an active week:
+
+**If absence is less than 48 hours:** Defer moderation tasks until return. Email any facilitator whose session day falls in the window to advise that print-ready files will be delayed and to hold their print run. No data is lost — submissions remain in the `submissions` bucket with `moderation_status = 'pending'` until reviewed.
+
+**If absence is 48 hours or more:** A backup coordinator (second GitHub org owner or trusted delegate with Supabase dashboard access) should step in. Brief them using HANDOVER.md Section 3.3. The only genuinely time-sensitive task is image moderation — the 24-hour print turnaround is a service commitment, not a data integrity issue. SWEMWBS forms, session notes, and site completion forms accept submissions normally whether or not anyone reviews them.
+
+**Pre-emptive action before planned leave:** If you know in advance that you will be unavailable during an active project week, email the affected facilitator(s) before you go. Give them an extended print deadline or ask them to defer printing until you return. Most facilitators will accommodate this without difficulty — the 24-hour commitment is an aspiration, not a contract.
+
+The project's longevity-first design means no single absence should threaten data or participant safety. The `submissions` bucket is permanent; images do not expire. The only irreversible action the coordinator takes is deleting a rejected image — and that can always wait.
+
 ### Monthly (year-round)
 
 - Run `pg_dump` backup and upload to Backblaze B2

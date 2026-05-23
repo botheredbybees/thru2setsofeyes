@@ -13,8 +13,8 @@ CREATE POLICY "Anon can upload to submissions"
     TO anon
     WITH CHECK (bucket_id = 'submissions');
 
--- Anon cannot read from submissions bucket
-CREATE POLICY "Anon cannot read submissions"
+-- Anon can read from gallery bucket (public) but not submissions (private)
+CREATE POLICY "Anon can read gallery"
     ON storage.objects FOR SELECT
     TO anon
     USING (bucket_id = 'gallery');
